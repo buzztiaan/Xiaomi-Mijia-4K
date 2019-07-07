@@ -5,7 +5,7 @@
 # IMPORTANT: WIFI MUST BE CONFIGURED IN AUTO ON in Camera#
 # Note 1: Camera will be conneced to your AP some seconds after boot #
 # Note 2: Your wifi.conf must be copied to SD in /MISC/wifi.conf #
-# Note 3: File must be copied and renamed to /MISC/wifi.conf #
+# Note 3: File must be copied and renamed to /autoexec.ash #
 
 
 #Wait until boot is done. 5sec is enought
